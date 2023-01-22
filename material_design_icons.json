@@ -1,0 +1,4662 @@
+[
+    {
+        "icon": "3d_rotation",
+        "code-point": "0xe84d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "ac_unit",
+        "code-point": "0xeb3b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "access_alarm",
+        "code-point": "0xe190",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "access_alarms",
+        "code-point": "0xe191",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "access_time",
+        "code-point": "0xe192",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "accessibility",
+        "code-point": "0xe84e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "accessible",
+        "code-point": "0xe914",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "account_balance",
+        "code-point": "0xe84f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "account_balance_wallet",
+        "code-point": "0xe850",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "account_box",
+        "code-point": "0xe851",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "account_circle",
+        "code-point": "0xe853",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "adb",
+        "code-point": "0xe60e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "add",
+        "code-point": "0xe145",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "add_a_photo",
+        "code-point": "0xe439",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "add_alarm",
+        "code-point": "0xe193",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "add_alert",
+        "code-point": "0xe003",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "add_box",
+        "code-point": "0xe146",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "add_circle",
+        "code-point": "0xe147",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "add_circle_outline",
+        "code-point": "0xe148",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "add_location",
+        "code-point": "0xe567",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "add_shopping_cart",
+        "code-point": "0xe854",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "add_to_photos",
+        "code-point": "0xe39d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "add_to_queue",
+        "code-point": "0xe05c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "adjust",
+        "code-point": "0xe39e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "airline_seat_flat",
+        "code-point": "0xe630",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "airline_seat_flat_angled",
+        "code-point": "0xe631",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "airline_seat_individual_suite",
+        "code-point": "0xe632",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "airline_seat_legroom_extra",
+        "code-point": "0xe633",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "airline_seat_legroom_normal",
+        "code-point": "0xe634",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "airline_seat_legroom_reduced",
+        "code-point": "0xe635",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "airline_seat_recline_extra",
+        "code-point": "0xe636",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "airline_seat_recline_normal",
+        "code-point": "0xe637",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "airplanemode_active",
+        "code-point": "0xe195",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "airplanemode_inactive",
+        "code-point": "0xe194",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "airplay",
+        "code-point": "0xe055",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "airport_shuttle",
+        "code-point": "0xeb3c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "alarm",
+        "code-point": "0xe855",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "alarm_add",
+        "code-point": "0xe856",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "alarm_off",
+        "code-point": "0xe857",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "alarm_on",
+        "code-point": "0xe858",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "album",
+        "code-point": "0xe019",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "all_inclusive",
+        "code-point": "0xeb3d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "all_out",
+        "code-point": "0xe90b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "android",
+        "code-point": "0xe859",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "announcement",
+        "code-point": "0xe85a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "apps",
+        "code-point": "0xe5c3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "archive",
+        "code-point": "0xe149",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "arrow_back",
+        "code-point": "0xe5c4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "arrow_downward",
+        "code-point": "0xe5db",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "arrow_drop_down",
+        "code-point": "0xe5c5",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "arrow_drop_down_circle",
+        "code-point": "0xe5c6",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "arrow_drop_up",
+        "code-point": "0xe5c7",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "arrow_forward",
+        "code-point": "0xe5c8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "arrow_upward",
+        "code-point": "0xe5d8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "art_track",
+        "code-point": "0xe060",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "aspect_ratio",
+        "code-point": "0xe85b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "assessment",
+        "code-point": "0xe85c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "assignment",
+        "code-point": "0xe85d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "assignment_ind",
+        "code-point": "0xe85e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "assignment_late",
+        "code-point": "0xe85f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "assignment_return",
+        "code-point": "0xe860",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "assignment_returned",
+        "code-point": "0xe861",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "assignment_turned_in",
+        "code-point": "0xe862",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "assistant",
+        "code-point": "0xe39f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "assistant_photo",
+        "code-point": "0xe3a0",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "attach_file",
+        "code-point": "0xe226",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "attach_money",
+        "code-point": "0xe227",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "attachment",
+        "code-point": "0xe2bc",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "audiotrack",
+        "code-point": "0xe3a1",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "autorenew",
+        "code-point": "0xe863",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "av_timer",
+        "code-point": "0xe01b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "backspace",
+        "code-point": "0xe14a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "backup",
+        "code-point": "0xe864",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "battery_alert",
+        "code-point": "0xe19c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "battery_charging_full",
+        "code-point": "0xe1a3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "battery_full",
+        "code-point": "0xe1a4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "battery_std",
+        "code-point": "0xe1a5",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "battery_unknown",
+        "code-point": "0xe1a6",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "beach_access",
+        "code-point": "0xeb3e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "beenhere",
+        "code-point": "0xe52d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "block",
+        "code-point": "0xe14b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "bluetooth",
+        "code-point": "0xe1a7",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "bluetooth_audio",
+        "code-point": "0xe60f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "bluetooth_connected",
+        "code-point": "0xe1a8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "bluetooth_disabled",
+        "code-point": "0xe1a9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "bluetooth_searching",
+        "code-point": "0xe1aa",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "blur_circular",
+        "code-point": "0xe3a2",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "blur_linear",
+        "code-point": "0xe3a3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "blur_off",
+        "code-point": "0xe3a4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "blur_on",
+        "code-point": "0xe3a5",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "book",
+        "code-point": "0xe865",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "bookmark",
+        "code-point": "0xe866",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "bookmark_border",
+        "code-point": "0xe867",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "border_all",
+        "code-point": "0xe228",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "border_bottom",
+        "code-point": "0xe229",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "border_clear",
+        "code-point": "0xe22a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "border_color",
+        "code-point": "0xe22b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "border_horizontal",
+        "code-point": "0xe22c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "border_inner",
+        "code-point": "0xe22d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "border_left",
+        "code-point": "0xe22e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "border_outer",
+        "code-point": "0xe22f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "border_right",
+        "code-point": "0xe230",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "border_style",
+        "code-point": "0xe231",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "border_top",
+        "code-point": "0xe232",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "border_vertical",
+        "code-point": "0xe233",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "branding_watermark",
+        "code-point": "0xe06b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "brightness_1",
+        "code-point": "0xe3a6",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "brightness_2",
+        "code-point": "0xe3a7",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "brightness_3",
+        "code-point": "0xe3a8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "brightness_4",
+        "code-point": "0xe3a9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "brightness_5",
+        "code-point": "0xe3aa",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "brightness_6",
+        "code-point": "0xe3ab",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "brightness_7",
+        "code-point": "0xe3ac",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "brightness_auto",
+        "code-point": "0xe1ab",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "brightness_high",
+        "code-point": "0xe1ac",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "brightness_low",
+        "code-point": "0xe1ad",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "brightness_medium",
+        "code-point": "0xe1ae",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "broken_image",
+        "code-point": "0xe3ad",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "brush",
+        "code-point": "0xe3ae",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "bubble_chart",
+        "code-point": "0xe6dd",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "bug_report",
+        "code-point": "0xe868",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "build",
+        "code-point": "0xe869",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "burst_mode",
+        "code-point": "0xe43c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "business",
+        "code-point": "0xe0af",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "business_center",
+        "code-point": "0xeb3f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "cached",
+        "code-point": "0xe86a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "cake",
+        "code-point": "0xe7e9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "call",
+        "code-point": "0xe0b0",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "call_end",
+        "code-point": "0xe0b1",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "call_made",
+        "code-point": "0xe0b2",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "call_merge",
+        "code-point": "0xe0b3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "call_missed",
+        "code-point": "0xe0b4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "call_missed_outgoing",
+        "code-point": "0xe0e4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "call_received",
+        "code-point": "0xe0b5",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "call_split",
+        "code-point": "0xe0b6",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "call_to_action",
+        "code-point": "0xe06c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "camera",
+        "code-point": "0xe3af",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "camera_alt",
+        "code-point": "0xe3b0",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "camera_enhance",
+        "code-point": "0xe8fc",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "camera_front",
+        "code-point": "0xe3b1",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "camera_rear",
+        "code-point": "0xe3b2",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "camera_roll",
+        "code-point": "0xe3b3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "cancel",
+        "code-point": "0xe5c9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "card_giftcard",
+        "code-point": "0xe8f6",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "card_membership",
+        "code-point": "0xe8f7",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "card_travel",
+        "code-point": "0xe8f8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "casino",
+        "code-point": "0xeb40",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "cast",
+        "code-point": "0xe307",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "cast_connected",
+        "code-point": "0xe308",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "center_focus_strong",
+        "code-point": "0xe3b4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "center_focus_weak",
+        "code-point": "0xe3b5",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "change_history",
+        "code-point": "0xe86b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "chat",
+        "code-point": "0xe0b7",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "chat_bubble",
+        "code-point": "0xe0ca",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "chat_bubble_outline",
+        "code-point": "0xe0cb",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "check",
+        "code-point": "0xe5ca",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "check_box",
+        "code-point": "0xe834",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "check_box_outline_blank",
+        "code-point": "0xe835",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "check_circle",
+        "code-point": "0xe86c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "chevron_left",
+        "code-point": "0xe5cb",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "chevron_right",
+        "code-point": "0xe5cc",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "child_care",
+        "code-point": "0xeb41",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "child_friendly",
+        "code-point": "0xeb42",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "chrome_reader_mode",
+        "code-point": "0xe86d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "class",
+        "code-point": "0xe86e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "clear",
+        "code-point": "0xe14c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "clear_all",
+        "code-point": "0xe0b8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "close",
+        "code-point": "0xe5cd",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "closed_caption",
+        "code-point": "0xe01c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "cloud",
+        "code-point": "0xe2bd",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "cloud_circle",
+        "code-point": "0xe2be",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "cloud_done",
+        "code-point": "0xe2bf",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "cloud_download",
+        "code-point": "0xe2c0",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "cloud_off",
+        "code-point": "0xe2c1",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "cloud_queue",
+        "code-point": "0xe2c2",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "cloud_upload",
+        "code-point": "0xe2c3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "code",
+        "code-point": "0xe86f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "collections",
+        "code-point": "0xe3b6",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "collections_bookmark",
+        "code-point": "0xe431",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "color_lens",
+        "code-point": "0xe3b7",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "colorize",
+        "code-point": "0xe3b8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "comment",
+        "code-point": "0xe0b9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "compare",
+        "code-point": "0xe3b9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "compare_arrows",
+        "code-point": "0xe915",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "computer",
+        "code-point": "0xe30a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "confirmation_number",
+        "code-point": "0xe638",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "contact_mail",
+        "code-point": "0xe0d0",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "contact_phone",
+        "code-point": "0xe0cf",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "contacts",
+        "code-point": "0xe0ba",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "content_copy",
+        "code-point": "0xe14d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "content_cut",
+        "code-point": "0xe14e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "content_paste",
+        "code-point": "0xe14f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "control_point",
+        "code-point": "0xe3ba",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "control_point_duplicate",
+        "code-point": "0xe3bb",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "copyright",
+        "code-point": "0xe90c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "create",
+        "code-point": "0xe150",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "create_new_folder",
+        "code-point": "0xe2cc",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "credit_card",
+        "code-point": "0xe870",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "crop",
+        "code-point": "0xe3be",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "crop_16_9",
+        "code-point": "0xe3bc",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "crop_3_2",
+        "code-point": "0xe3bd",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "crop_5_4",
+        "code-point": "0xe3bf",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "crop_7_5",
+        "code-point": "0xe3c0",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "crop_din",
+        "code-point": "0xe3c1",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "crop_free",
+        "code-point": "0xe3c2",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "crop_landscape",
+        "code-point": "0xe3c3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "crop_original",
+        "code-point": "0xe3c4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "crop_portrait",
+        "code-point": "0xe3c5",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "crop_rotate",
+        "code-point": "0xe437",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "crop_square",
+        "code-point": "0xe3c6",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "dashboard",
+        "code-point": "0xe871",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "data_usage",
+        "code-point": "0xe1af",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "date_range",
+        "code-point": "0xe916",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "dehaze",
+        "code-point": "0xe3c7",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "delete",
+        "code-point": "0xe872",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "delete_forever",
+        "code-point": "0xe92b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "delete_sweep",
+        "code-point": "0xe16c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "description",
+        "code-point": "0xe873",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "desktop_mac",
+        "code-point": "0xe30b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "desktop_windows",
+        "code-point": "0xe30c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "details",
+        "code-point": "0xe3c8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "developer_board",
+        "code-point": "0xe30d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "developer_mode",
+        "code-point": "0xe1b0",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "device_hub",
+        "code-point": "0xe335",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "devices",
+        "code-point": "0xe1b1",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "devices_other",
+        "code-point": "0xe337",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "dialer_sip",
+        "code-point": "0xe0bb",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "dialpad",
+        "code-point": "0xe0bc",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "directions",
+        "code-point": "0xe52e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "directions_bike",
+        "code-point": "0xe52f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "directions_boat",
+        "code-point": "0xe532",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "directions_bus",
+        "code-point": "0xe530",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "directions_car",
+        "code-point": "0xe531",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "directions_railway",
+        "code-point": "0xe534",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "directions_run",
+        "code-point": "0xe566",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "directions_subway",
+        "code-point": "0xe533",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "directions_transit",
+        "code-point": "0xe535",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "directions_walk",
+        "code-point": "0xe536",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "disc_full",
+        "code-point": "0xe610",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "dns",
+        "code-point": "0xe875",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "do_not_disturb",
+        "code-point": "0xe612",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "do_not_disturb_alt",
+        "code-point": "0xe611",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "do_not_disturb_off",
+        "code-point": "0xe643",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "do_not_disturb_on",
+        "code-point": "0xe644",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "dock",
+        "code-point": "0xe30e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "domain",
+        "code-point": "0xe7ee",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "done",
+        "code-point": "0xe876",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "done_all",
+        "code-point": "0xe877",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "donut_large",
+        "code-point": "0xe917",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "donut_small",
+        "code-point": "0xe918",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "drafts",
+        "code-point": "0xe151",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "drag_handle",
+        "code-point": "0xe25d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "drive_eta",
+        "code-point": "0xe613",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "dvr",
+        "code-point": "0xe1b2",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "edit",
+        "code-point": "0xe3c9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "edit_location",
+        "code-point": "0xe568",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "eject",
+        "code-point": "0xe8fb",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "email",
+        "code-point": "0xe0be",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "enhanced_encryption",
+        "code-point": "0xe63f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "equalizer",
+        "code-point": "0xe01d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "error",
+        "code-point": "0xe000",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "error_outline",
+        "code-point": "0xe001",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "euro_symbol",
+        "code-point": "0xe926",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "ev_station",
+        "code-point": "0xe56d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "event",
+        "code-point": "0xe878",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "event_available",
+        "code-point": "0xe614",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "event_busy",
+        "code-point": "0xe615",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "event_note",
+        "code-point": "0xe616",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "event_seat",
+        "code-point": "0xe903",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "exit_to_app",
+        "code-point": "0xe879",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "expand_less",
+        "code-point": "0xe5ce",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "expand_more",
+        "code-point": "0xe5cf",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "explicit",
+        "code-point": "0xe01e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "explore",
+        "code-point": "0xe87a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "exposure",
+        "code-point": "0xe3ca",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "exposure_neg_1",
+        "code-point": "0xe3cb",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "exposure_neg_2",
+        "code-point": "0xe3cc",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "exposure_plus_1",
+        "code-point": "0xe3cd",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "exposure_plus_2",
+        "code-point": "0xe3ce",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "exposure_zero",
+        "code-point": "0xe3cf",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "extension",
+        "code-point": "0xe87b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "face",
+        "code-point": "0xe87c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "fast_forward",
+        "code-point": "0xe01f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "fast_rewind",
+        "code-point": "0xe020",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "favorite",
+        "code-point": "0xe87d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "favorite_border",
+        "code-point": "0xe87e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "featured_play_list",
+        "code-point": "0xe06d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "featured_video",
+        "code-point": "0xe06e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "feedback",
+        "code-point": "0xe87f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "fiber_dvr",
+        "code-point": "0xe05d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "fiber_manual_record",
+        "code-point": "0xe061",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "fiber_new",
+        "code-point": "0xe05e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "fiber_pin",
+        "code-point": "0xe06a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "fiber_smart_record",
+        "code-point": "0xe062",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "file_download",
+        "code-point": "0xe2c4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "file_upload",
+        "code-point": "0xe2c6",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "filter",
+        "code-point": "0xe3d3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "filter_1",
+        "code-point": "0xe3d0",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "filter_2",
+        "code-point": "0xe3d1",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "filter_3",
+        "code-point": "0xe3d2",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "filter_4",
+        "code-point": "0xe3d4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "filter_5",
+        "code-point": "0xe3d5",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "filter_6",
+        "code-point": "0xe3d6",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "filter_7",
+        "code-point": "0xe3d7",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "filter_8",
+        "code-point": "0xe3d8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "filter_9",
+        "code-point": "0xe3d9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "filter_9_plus",
+        "code-point": "0xe3da",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "filter_b_and_w",
+        "code-point": "0xe3db",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "filter_center_focus",
+        "code-point": "0xe3dc",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "filter_drama",
+        "code-point": "0xe3dd",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "filter_frames",
+        "code-point": "0xe3de",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "filter_hdr",
+        "code-point": "0xe3df",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "filter_list",
+        "code-point": "0xe152",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "filter_none",
+        "code-point": "0xe3e0",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "filter_tilt_shift",
+        "code-point": "0xe3e2",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "filter_vintage",
+        "code-point": "0xe3e3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "find_in_page",
+        "code-point": "0xe880",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "find_replace",
+        "code-point": "0xe881",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "fingerprint",
+        "code-point": "0xe90d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "first_page",
+        "code-point": "0xe5dc",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "fitness_center",
+        "code-point": "0xeb43",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "flag",
+        "code-point": "0xe153",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "flare",
+        "code-point": "0xe3e4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "flash_auto",
+        "code-point": "0xe3e5",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "flash_off",
+        "code-point": "0xe3e6",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "flash_on",
+        "code-point": "0xe3e7",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "flight",
+        "code-point": "0xe539",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "flight_land",
+        "code-point": "0xe904",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "flight_takeoff",
+        "code-point": "0xe905",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "flip",
+        "code-point": "0xe3e8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "flip_to_back",
+        "code-point": "0xe882",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "flip_to_front",
+        "code-point": "0xe883",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "folder",
+        "code-point": "0xe2c7",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "folder_open",
+        "code-point": "0xe2c8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "folder_shared",
+        "code-point": "0xe2c9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "folder_special",
+        "code-point": "0xe617",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "font_download",
+        "code-point": "0xe167",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_align_center",
+        "code-point": "0xe234",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_align_justify",
+        "code-point": "0xe235",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_align_left",
+        "code-point": "0xe236",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_align_right",
+        "code-point": "0xe237",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_bold",
+        "code-point": "0xe238",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_clear",
+        "code-point": "0xe239",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_color_fill",
+        "code-point": "0xe23a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_color_reset",
+        "code-point": "0xe23b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_color_text",
+        "code-point": "0xe23c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_indent_decrease",
+        "code-point": "0xe23d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_indent_increase",
+        "code-point": "0xe23e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_italic",
+        "code-point": "0xe23f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_line_spacing",
+        "code-point": "0xe240",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_list_bulleted",
+        "code-point": "0xe241",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_list_numbered",
+        "code-point": "0xe242",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_paint",
+        "code-point": "0xe243",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_quote",
+        "code-point": "0xe244",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_shapes",
+        "code-point": "0xe25e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_size",
+        "code-point": "0xe245",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_strikethrough",
+        "code-point": "0xe246",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_textdirection_l_to_r",
+        "code-point": "0xe247",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_textdirection_r_to_l",
+        "code-point": "0xe248",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "format_underlined",
+        "code-point": "0xe249",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "forum",
+        "code-point": "0xe0bf",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "forward",
+        "code-point": "0xe154",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "forward_10",
+        "code-point": "0xe056",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "forward_30",
+        "code-point": "0xe057",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "forward_5",
+        "code-point": "0xe058",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "free_breakfast",
+        "code-point": "0xeb44",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "fullscreen",
+        "code-point": "0xe5d0",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "fullscreen_exit",
+        "code-point": "0xe5d1",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "functions",
+        "code-point": "0xe24a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "g_translate",
+        "code-point": "0xe927",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "gamepad",
+        "code-point": "0xe30f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "games",
+        "code-point": "0xe021",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "gavel",
+        "code-point": "0xe90e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "gesture",
+        "code-point": "0xe155",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "get_app",
+        "code-point": "0xe884",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "gif",
+        "code-point": "0xe908",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "golf_course",
+        "code-point": "0xeb45",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "gps_fixed",
+        "code-point": "0xe1b3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "gps_not_fixed",
+        "code-point": "0xe1b4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "gps_off",
+        "code-point": "0xe1b5",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "grade",
+        "code-point": "0xe885",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "gradient",
+        "code-point": "0xe3e9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "grain",
+        "code-point": "0xe3ea",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "graphic_eq",
+        "code-point": "0xe1b8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "grid_off",
+        "code-point": "0xe3eb",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "grid_on",
+        "code-point": "0xe3ec",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "group",
+        "code-point": "0xe7ef",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "group_add",
+        "code-point": "0xe7f0",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "group_work",
+        "code-point": "0xe886",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "hd",
+        "code-point": "0xe052",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "hdr_off",
+        "code-point": "0xe3ed",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "hdr_on",
+        "code-point": "0xe3ee",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "hdr_strong",
+        "code-point": "0xe3f1",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "hdr_weak",
+        "code-point": "0xe3f2",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "headset",
+        "code-point": "0xe310",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "headset_mic",
+        "code-point": "0xe311",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "healing",
+        "code-point": "0xe3f3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "hearing",
+        "code-point": "0xe023",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "help",
+        "code-point": "0xe887",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "help_outline",
+        "code-point": "0xe8fd",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "high_quality",
+        "code-point": "0xe024",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "highlight",
+        "code-point": "0xe25f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "highlight_off",
+        "code-point": "0xe888",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "history",
+        "code-point": "0xe889",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "home",
+        "code-point": "0xe88a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "hot_tub",
+        "code-point": "0xeb46",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "hotel",
+        "code-point": "0xe53a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "hourglass_empty",
+        "code-point": "0xe88b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "hourglass_full",
+        "code-point": "0xe88c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "http",
+        "code-point": "0xe902",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "https",
+        "code-point": "0xe88d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "image",
+        "code-point": "0xe3f4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "image_aspect_ratio",
+        "code-point": "0xe3f5",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "import_contacts",
+        "code-point": "0xe0e0",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "import_export",
+        "code-point": "0xe0c3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "important_devices",
+        "code-point": "0xe912",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "inbox",
+        "code-point": "0xe156",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "indeterminate_check_box",
+        "code-point": "0xe909",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "info",
+        "code-point": "0xe88e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "info_outline",
+        "code-point": "0xe88f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "input",
+        "code-point": "0xe890",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "insert_chart",
+        "code-point": "0xe24b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "insert_comment",
+        "code-point": "0xe24c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "insert_drive_file",
+        "code-point": "0xe24d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "insert_emoticon",
+        "code-point": "0xe24e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "insert_invitation",
+        "code-point": "0xe24f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "insert_link",
+        "code-point": "0xe250",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "insert_photo",
+        "code-point": "0xe251",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "invert_colors",
+        "code-point": "0xe891",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "invert_colors_off",
+        "code-point": "0xe0c4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "iso",
+        "code-point": "0xe3f6",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "keyboard",
+        "code-point": "0xe312",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "keyboard_arrow_down",
+        "code-point": "0xe313",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "keyboard_arrow_left",
+        "code-point": "0xe314",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "keyboard_arrow_right",
+        "code-point": "0xe315",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "keyboard_arrow_up",
+        "code-point": "0xe316",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "keyboard_backspace",
+        "code-point": "0xe317",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "keyboard_capslock",
+        "code-point": "0xe318",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "keyboard_hide",
+        "code-point": "0xe31a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "keyboard_return",
+        "code-point": "0xe31b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "keyboard_tab",
+        "code-point": "0xe31c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "keyboard_voice",
+        "code-point": "0xe31d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "kitchen",
+        "code-point": "0xeb47",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "label",
+        "code-point": "0xe892",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "label_outline",
+        "code-point": "0xe893",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "landscape",
+        "code-point": "0xe3f7",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "language",
+        "code-point": "0xe894",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "laptop",
+        "code-point": "0xe31e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "laptop_chromebook",
+        "code-point": "0xe31f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "laptop_mac",
+        "code-point": "0xe320",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "laptop_windows",
+        "code-point": "0xe321",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "last_page",
+        "code-point": "0xe5dd",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "launch",
+        "code-point": "0xe895",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "layers",
+        "code-point": "0xe53b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "layers_clear",
+        "code-point": "0xe53c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "leak_add",
+        "code-point": "0xe3f8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "leak_remove",
+        "code-point": "0xe3f9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "lens",
+        "code-point": "0xe3fa",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "library_add",
+        "code-point": "0xe02e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "library_books",
+        "code-point": "0xe02f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "library_music",
+        "code-point": "0xe030",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "lightbulb_outline",
+        "code-point": "0xe90f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "line_style",
+        "code-point": "0xe919",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "line_weight",
+        "code-point": "0xe91a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "linear_scale",
+        "code-point": "0xe260",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "link",
+        "code-point": "0xe157",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "linked_camera",
+        "code-point": "0xe438",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "list",
+        "code-point": "0xe896",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "live_help",
+        "code-point": "0xe0c6",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "live_tv",
+        "code-point": "0xe639",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_activity",
+        "code-point": "0xe53f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_airport",
+        "code-point": "0xe53d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_atm",
+        "code-point": "0xe53e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_bar",
+        "code-point": "0xe540",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_cafe",
+        "code-point": "0xe541",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_car_wash",
+        "code-point": "0xe542",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_convenience_store",
+        "code-point": "0xe543",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_dining",
+        "code-point": "0xe556",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_drink",
+        "code-point": "0xe544",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_florist",
+        "code-point": "0xe545",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_gas_station",
+        "code-point": "0xe546",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_grocery_store",
+        "code-point": "0xe547",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_hospital",
+        "code-point": "0xe548",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_hotel",
+        "code-point": "0xe549",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_laundry_service",
+        "code-point": "0xe54a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_library",
+        "code-point": "0xe54b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_mall",
+        "code-point": "0xe54c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_movies",
+        "code-point": "0xe54d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_offer",
+        "code-point": "0xe54e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_parking",
+        "code-point": "0xe54f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_pharmacy",
+        "code-point": "0xe550",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_phone",
+        "code-point": "0xe551",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_pizza",
+        "code-point": "0xe552",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_play",
+        "code-point": "0xe553",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_post_office",
+        "code-point": "0xe554",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_printshop",
+        "code-point": "0xe555",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_see",
+        "code-point": "0xe557",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_shipping",
+        "code-point": "0xe558",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "local_taxi",
+        "code-point": "0xe559",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "location_city",
+        "code-point": "0xe7f1",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "location_disabled",
+        "code-point": "0xe1b6",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "location_off",
+        "code-point": "0xe0c7",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "location_on",
+        "code-point": "0xe0c8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "location_searching",
+        "code-point": "0xe1b7",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "lock",
+        "code-point": "0xe897",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "lock_open",
+        "code-point": "0xe898",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "lock_outline",
+        "code-point": "0xe899",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "looks",
+        "code-point": "0xe3fc",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "looks_3",
+        "code-point": "0xe3fb",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "looks_4",
+        "code-point": "0xe3fd",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "looks_5",
+        "code-point": "0xe3fe",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "looks_6",
+        "code-point": "0xe3ff",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "looks_one",
+        "code-point": "0xe400",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "looks_two",
+        "code-point": "0xe401",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "loop",
+        "code-point": "0xe028",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "loupe",
+        "code-point": "0xe402",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "low_priority",
+        "code-point": "0xe16d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "loyalty",
+        "code-point": "0xe89a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "mail",
+        "code-point": "0xe158",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "mail_outline",
+        "code-point": "0xe0e1",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "map",
+        "code-point": "0xe55b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "markunread",
+        "code-point": "0xe159",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "markunread_mailbox",
+        "code-point": "0xe89b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "memory",
+        "code-point": "0xe322",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "menu",
+        "code-point": "0xe5d2",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "merge_type",
+        "code-point": "0xe252",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "message",
+        "code-point": "0xe0c9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "mic",
+        "code-point": "0xe029",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "mic_none",
+        "code-point": "0xe02a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "mic_off",
+        "code-point": "0xe02b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "mms",
+        "code-point": "0xe618",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "mode_comment",
+        "code-point": "0xe253",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "mode_edit",
+        "code-point": "0xe254",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "monetization_on",
+        "code-point": "0xe263",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "money_off",
+        "code-point": "0xe25c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "monochrome_photos",
+        "code-point": "0xe403",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "mood",
+        "code-point": "0xe7f2",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "mood_bad",
+        "code-point": "0xe7f3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "more",
+        "code-point": "0xe619",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "more_horiz",
+        "code-point": "0xe5d3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "more_vert",
+        "code-point": "0xe5d4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "motorcycle",
+        "code-point": "0xe91b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "mouse",
+        "code-point": "0xe323",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "move_to_inbox",
+        "code-point": "0xe168",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "movie",
+        "code-point": "0xe02c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "movie_creation",
+        "code-point": "0xe404",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "movie_filter",
+        "code-point": "0xe43a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "multiline_chart",
+        "code-point": "0xe6df",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "music_note",
+        "code-point": "0xe405",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "music_video",
+        "code-point": "0xe063",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "my_location",
+        "code-point": "0xe55c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "nature",
+        "code-point": "0xe406",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "nature_people",
+        "code-point": "0xe407",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "navigate_before",
+        "code-point": "0xe408",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "navigate_next",
+        "code-point": "0xe409",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "navigation",
+        "code-point": "0xe55d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "near_me",
+        "code-point": "0xe569",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "network_cell",
+        "code-point": "0xe1b9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "network_check",
+        "code-point": "0xe640",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "network_locked",
+        "code-point": "0xe61a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "network_wifi",
+        "code-point": "0xe1ba",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "new_releases",
+        "code-point": "0xe031",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "next_week",
+        "code-point": "0xe16a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "nfc",
+        "code-point": "0xe1bb",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "no_encryption",
+        "code-point": "0xe641",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "no_sim",
+        "code-point": "0xe0cc",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "not_interested",
+        "code-point": "0xe033",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "note",
+        "code-point": "0xe06f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "note_add",
+        "code-point": "0xe89c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "notifications",
+        "code-point": "0xe7f4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "notifications_active",
+        "code-point": "0xe7f7",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "notifications_none",
+        "code-point": "0xe7f5",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "notifications_off",
+        "code-point": "0xe7f6",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "notifications_paused",
+        "code-point": "0xe7f8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "offline_pin",
+        "code-point": "0xe90a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "ondemand_video",
+        "code-point": "0xe63a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "opacity",
+        "code-point": "0xe91c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "open_in_browser",
+        "code-point": "0xe89d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "open_in_new",
+        "code-point": "0xe89e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "open_with",
+        "code-point": "0xe89f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "pages",
+        "code-point": "0xe7f9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "pageview",
+        "code-point": "0xe8a0",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "palette",
+        "code-point": "0xe40a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "pan_tool",
+        "code-point": "0xe925",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "panorama",
+        "code-point": "0xe40b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "panorama_fish_eye",
+        "code-point": "0xe40c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "panorama_horizontal",
+        "code-point": "0xe40d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "panorama_vertical",
+        "code-point": "0xe40e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "panorama_wide_angle",
+        "code-point": "0xe40f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "party_mode",
+        "code-point": "0xe7fa",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "pause",
+        "code-point": "0xe034",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "pause_circle_filled",
+        "code-point": "0xe035",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "pause_circle_outline",
+        "code-point": "0xe036",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "payment",
+        "code-point": "0xe8a1",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "people",
+        "code-point": "0xe7fb",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "people_outline",
+        "code-point": "0xe7fc",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "perm_camera_mic",
+        "code-point": "0xe8a2",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "perm_contact_calendar",
+        "code-point": "0xe8a3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "perm_data_setting",
+        "code-point": "0xe8a4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "perm_device_information",
+        "code-point": "0xe8a5",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "perm_identity",
+        "code-point": "0xe8a6",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "perm_media",
+        "code-point": "0xe8a7",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "perm_phone_msg",
+        "code-point": "0xe8a8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "perm_scan_wifi",
+        "code-point": "0xe8a9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "person",
+        "code-point": "0xe7fd",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "person_add",
+        "code-point": "0xe7fe",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "person_outline",
+        "code-point": "0xe7ff",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "person_pin",
+        "code-point": "0xe55a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "person_pin_circle",
+        "code-point": "0xe56a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "personal_video",
+        "code-point": "0xe63b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "pets",
+        "code-point": "0xe91d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "phone",
+        "code-point": "0xe0cd",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "phone_android",
+        "code-point": "0xe324",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "phone_bluetooth_speaker",
+        "code-point": "0xe61b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "phone_forwarded",
+        "code-point": "0xe61c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "phone_in_talk",
+        "code-point": "0xe61d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "phone_iphone",
+        "code-point": "0xe325",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "phone_locked",
+        "code-point": "0xe61e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "phone_missed",
+        "code-point": "0xe61f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "phone_paused",
+        "code-point": "0xe620",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "phonelink",
+        "code-point": "0xe326",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "phonelink_erase",
+        "code-point": "0xe0db",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "phonelink_lock",
+        "code-point": "0xe0dc",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "phonelink_off",
+        "code-point": "0xe327",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "phonelink_ring",
+        "code-point": "0xe0dd",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "phonelink_setup",
+        "code-point": "0xe0de",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "photo",
+        "code-point": "0xe410",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "photo_album",
+        "code-point": "0xe411",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "photo_camera",
+        "code-point": "0xe412",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "photo_filter",
+        "code-point": "0xe43b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "photo_library",
+        "code-point": "0xe413",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "photo_size_select_actual",
+        "code-point": "0xe432",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "photo_size_select_large",
+        "code-point": "0xe433",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "photo_size_select_small",
+        "code-point": "0xe434",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "picture_as_pdf",
+        "code-point": "0xe415",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "picture_in_picture",
+        "code-point": "0xe8aa",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "picture_in_picture_alt",
+        "code-point": "0xe911",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "pie_chart",
+        "code-point": "0xe6c4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "pie_chart_outlined",
+        "code-point": "0xe6c5",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "pin_drop",
+        "code-point": "0xe55e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "place",
+        "code-point": "0xe55f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "play_arrow",
+        "code-point": "0xe037",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "play_circle_filled",
+        "code-point": "0xe038",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "play_circle_outline",
+        "code-point": "0xe039",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "play_for_work",
+        "code-point": "0xe906",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "playlist_add",
+        "code-point": "0xe03b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "playlist_add_check",
+        "code-point": "0xe065",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "playlist_play",
+        "code-point": "0xe05f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "plus_one",
+        "code-point": "0xe800",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "poll",
+        "code-point": "0xe801",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "polymer",
+        "code-point": "0xe8ab",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "pool",
+        "code-point": "0xeb48",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "portable_wifi_off",
+        "code-point": "0xe0ce",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "portrait",
+        "code-point": "0xe416",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "power",
+        "code-point": "0xe63c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "power_input",
+        "code-point": "0xe336",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "power_settings_new",
+        "code-point": "0xe8ac",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "pregnant_woman",
+        "code-point": "0xe91e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "present_to_all",
+        "code-point": "0xe0df",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "print",
+        "code-point": "0xe8ad",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "priority_high",
+        "code-point": "0xe645",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "public",
+        "code-point": "0xe80b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "publish",
+        "code-point": "0xe255",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "query_builder",
+        "code-point": "0xe8ae",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "question_answer",
+        "code-point": "0xe8af",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "queue",
+        "code-point": "0xe03c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "queue_music",
+        "code-point": "0xe03d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "queue_play_next",
+        "code-point": "0xe066",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "radio",
+        "code-point": "0xe03e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "radio_button_checked",
+        "code-point": "0xe837",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "radio_button_unchecked",
+        "code-point": "0xe836",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "rate_review",
+        "code-point": "0xe560",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "receipt",
+        "code-point": "0xe8b0",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "recent_actors",
+        "code-point": "0xe03f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "record_voice_over",
+        "code-point": "0xe91f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "redeem",
+        "code-point": "0xe8b1",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "redo",
+        "code-point": "0xe15a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "refresh",
+        "code-point": "0xe5d5",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "remove",
+        "code-point": "0xe15b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "remove_circle",
+        "code-point": "0xe15c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "remove_circle_outline",
+        "code-point": "0xe15d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "remove_from_queue",
+        "code-point": "0xe067",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "remove_red_eye",
+        "code-point": "0xe417",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "remove_shopping_cart",
+        "code-point": "0xe928",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "reorder",
+        "code-point": "0xe8fe",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "repeat",
+        "code-point": "0xe040",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "repeat_one",
+        "code-point": "0xe041",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "replay",
+        "code-point": "0xe042",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "replay_10",
+        "code-point": "0xe059",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "replay_30",
+        "code-point": "0xe05a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "replay_5",
+        "code-point": "0xe05b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "reply",
+        "code-point": "0xe15e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "reply_all",
+        "code-point": "0xe15f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "report",
+        "code-point": "0xe160",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "report_problem",
+        "code-point": "0xe8b2",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "restaurant",
+        "code-point": "0xe56c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "restaurant_menu",
+        "code-point": "0xe561",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "restore",
+        "code-point": "0xe8b3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "restore_page",
+        "code-point": "0xe929",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "ring_volume",
+        "code-point": "0xe0d1",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "room",
+        "code-point": "0xe8b4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "room_service",
+        "code-point": "0xeb49",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "rotate_90_degrees_ccw",
+        "code-point": "0xe418",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "rotate_left",
+        "code-point": "0xe419",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "rotate_right",
+        "code-point": "0xe41a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "rounded_corner",
+        "code-point": "0xe920",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "router",
+        "code-point": "0xe328",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "rowing",
+        "code-point": "0xe921",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "rss_feed",
+        "code-point": "0xe0e5",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "rv_hookup",
+        "code-point": "0xe642",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "satellite",
+        "code-point": "0xe562",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "save",
+        "code-point": "0xe161",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "scanner",
+        "code-point": "0xe329",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "schedule",
+        "code-point": "0xe8b5",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "school",
+        "code-point": "0xe80c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "screen_lock_landscape",
+        "code-point": "0xe1be",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "screen_lock_portrait",
+        "code-point": "0xe1bf",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "screen_lock_rotation",
+        "code-point": "0xe1c0",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "screen_rotation",
+        "code-point": "0xe1c1",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "screen_share",
+        "code-point": "0xe0e2",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "sd_card",
+        "code-point": "0xe623",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "sd_storage",
+        "code-point": "0xe1c2",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "search",
+        "code-point": "0xe8b6",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "security",
+        "code-point": "0xe32a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "select_all",
+        "code-point": "0xe162",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "send",
+        "code-point": "0xe163",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "sentiment_dissatisfied",
+        "code-point": "0xe811",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "sentiment_neutral",
+        "code-point": "0xe812",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "sentiment_satisfied",
+        "code-point": "0xe813",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "sentiment_very_dissatisfied",
+        "code-point": "0xe814",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "sentiment_very_satisfied",
+        "code-point": "0xe815",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "settings",
+        "code-point": "0xe8b8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "settings_applications",
+        "code-point": "0xe8b9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "settings_backup_restore",
+        "code-point": "0xe8ba",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "settings_bluetooth",
+        "code-point": "0xe8bb",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "settings_brightness",
+        "code-point": "0xe8bd",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "settings_cell",
+        "code-point": "0xe8bc",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "settings_ethernet",
+        "code-point": "0xe8be",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "settings_input_antenna",
+        "code-point": "0xe8bf",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "settings_input_component",
+        "code-point": "0xe8c0",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "settings_input_composite",
+        "code-point": "0xe8c1",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "settings_input_hdmi",
+        "code-point": "0xe8c2",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "settings_input_svideo",
+        "code-point": "0xe8c3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "settings_overscan",
+        "code-point": "0xe8c4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "settings_phone",
+        "code-point": "0xe8c5",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "settings_power",
+        "code-point": "0xe8c6",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "settings_remote",
+        "code-point": "0xe8c7",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "settings_system_daydream",
+        "code-point": "0xe1c3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "settings_voice",
+        "code-point": "0xe8c8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "share",
+        "code-point": "0xe80d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "shop",
+        "code-point": "0xe8c9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "shop_two",
+        "code-point": "0xe8ca",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "shopping_basket",
+        "code-point": "0xe8cb",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "shopping_cart",
+        "code-point": "0xe8cc",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "short_text",
+        "code-point": "0xe261",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "show_chart",
+        "code-point": "0xe6e1",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "shuffle",
+        "code-point": "0xe043",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "signal_cellular_4_bar",
+        "code-point": "0xe1c8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "signal_cellular_connected_no_internet_4_bar",
+        "code-point": "0xe1cd",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "signal_cellular_no_sim",
+        "code-point": "0xe1ce",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "signal_cellular_null",
+        "code-point": "0xe1cf",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "signal_cellular_off",
+        "code-point": "0xe1d0",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "signal_wifi_4_bar",
+        "code-point": "0xe1d8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "signal_wifi_4_bar_lock",
+        "code-point": "0xe1d9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "signal_wifi_off",
+        "code-point": "0xe1da",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "sim_card",
+        "code-point": "0xe32b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "sim_card_alert",
+        "code-point": "0xe624",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "skip_next",
+        "code-point": "0xe044",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "skip_previous",
+        "code-point": "0xe045",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "slideshow",
+        "code-point": "0xe41b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "slow_motion_video",
+        "code-point": "0xe068",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "smartphone",
+        "code-point": "0xe32c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "smoke_free",
+        "code-point": "0xeb4a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "smoking_rooms",
+        "code-point": "0xeb4b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "sms",
+        "code-point": "0xe625",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "sms_failed",
+        "code-point": "0xe626",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "snooze",
+        "code-point": "0xe046",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "sort",
+        "code-point": "0xe164",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "sort_by_alpha",
+        "code-point": "0xe053",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "spa",
+        "code-point": "0xeb4c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "space_bar",
+        "code-point": "0xe256",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "speaker",
+        "code-point": "0xe32d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "speaker_group",
+        "code-point": "0xe32e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "speaker_notes",
+        "code-point": "0xe8cd",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "speaker_notes_off",
+        "code-point": "0xe92a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "speaker_phone",
+        "code-point": "0xe0d2",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "spellcheck",
+        "code-point": "0xe8ce",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "star",
+        "code-point": "0xe838",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "star_border",
+        "code-point": "0xe83a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "star_half",
+        "code-point": "0xe839",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "stars",
+        "code-point": "0xe8d0",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "stay_current_landscape",
+        "code-point": "0xe0d3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "stay_current_portrait",
+        "code-point": "0xe0d4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "stay_primary_landscape",
+        "code-point": "0xe0d5",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "stay_primary_portrait",
+        "code-point": "0xe0d6",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "stop",
+        "code-point": "0xe047",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "stop_screen_share",
+        "code-point": "0xe0e3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "storage",
+        "code-point": "0xe1db",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "store",
+        "code-point": "0xe8d1",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "store_mall_directory",
+        "code-point": "0xe563",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "straighten",
+        "code-point": "0xe41c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "streetview",
+        "code-point": "0xe56e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "strikethrough_s",
+        "code-point": "0xe257",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "style",
+        "code-point": "0xe41d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "subdirectory_arrow_left",
+        "code-point": "0xe5d9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "subdirectory_arrow_right",
+        "code-point": "0xe5da",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "subject",
+        "code-point": "0xe8d2",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "subscriptions",
+        "code-point": "0xe064",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "subtitles",
+        "code-point": "0xe048",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "subway",
+        "code-point": "0xe56f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "supervisor_account",
+        "code-point": "0xe8d3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "surround_sound",
+        "code-point": "0xe049",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "swap_calls",
+        "code-point": "0xe0d7",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "swap_horiz",
+        "code-point": "0xe8d4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "swap_vert",
+        "code-point": "0xe8d5",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "swap_vertical_circle",
+        "code-point": "0xe8d6",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "switch_camera",
+        "code-point": "0xe41e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "switch_video",
+        "code-point": "0xe41f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "sync",
+        "code-point": "0xe627",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "sync_disabled",
+        "code-point": "0xe628",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "sync_problem",
+        "code-point": "0xe629",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "system_update",
+        "code-point": "0xe62a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "system_update_alt",
+        "code-point": "0xe8d7",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "tab",
+        "code-point": "0xe8d8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "tab_unselected",
+        "code-point": "0xe8d9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "tablet",
+        "code-point": "0xe32f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "tablet_android",
+        "code-point": "0xe330",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "tablet_mac",
+        "code-point": "0xe331",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "tag_faces",
+        "code-point": "0xe420",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "tap_and_play",
+        "code-point": "0xe62b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "terrain",
+        "code-point": "0xe564",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "text_fields",
+        "code-point": "0xe262",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "text_format",
+        "code-point": "0xe165",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "textsms",
+        "code-point": "0xe0d8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "texture",
+        "code-point": "0xe421",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "theaters",
+        "code-point": "0xe8da",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "thumb_down",
+        "code-point": "0xe8db",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "thumb_up",
+        "code-point": "0xe8dc",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "thumbs_up_down",
+        "code-point": "0xe8dd",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "time_to_leave",
+        "code-point": "0xe62c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "timelapse",
+        "code-point": "0xe422",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "timeline",
+        "code-point": "0xe922",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "timer",
+        "code-point": "0xe425",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "timer_10",
+        "code-point": "0xe423",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "timer_3",
+        "code-point": "0xe424",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "timer_off",
+        "code-point": "0xe426",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "title",
+        "code-point": "0xe264",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "toc",
+        "code-point": "0xe8de",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "today",
+        "code-point": "0xe8df",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "toll",
+        "code-point": "0xe8e0",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "tonality",
+        "code-point": "0xe427",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "touch_app",
+        "code-point": "0xe913",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "toys",
+        "code-point": "0xe332",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "track_changes",
+        "code-point": "0xe8e1",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "traffic",
+        "code-point": "0xe565",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "train",
+        "code-point": "0xe570",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "tram",
+        "code-point": "0xe571",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "transfer_within_a_station",
+        "code-point": "0xe572",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "transform",
+        "code-point": "0xe428",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "translate",
+        "code-point": "0xe8e2",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "trending_down",
+        "code-point": "0xe8e3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "trending_flat",
+        "code-point": "0xe8e4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "trending_up",
+        "code-point": "0xe8e5",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "tune",
+        "code-point": "0xe429",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "turned_in",
+        "code-point": "0xe8e6",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "turned_in_not",
+        "code-point": "0xe8e7",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "tv",
+        "code-point": "0xe333",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "unarchive",
+        "code-point": "0xe169",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "undo",
+        "code-point": "0xe166",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "unfold_less",
+        "code-point": "0xe5d6",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "unfold_more",
+        "code-point": "0xe5d7",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "update",
+        "code-point": "0xe923",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "usb",
+        "code-point": "0xe1e0",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "verified_user",
+        "code-point": "0xe8e8",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "vertical_align_bottom",
+        "code-point": "0xe258",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "vertical_align_center",
+        "code-point": "0xe259",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "vertical_align_top",
+        "code-point": "0xe25a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "vibration",
+        "code-point": "0xe62d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "video_call",
+        "code-point": "0xe070",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "video_label",
+        "code-point": "0xe071",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "video_library",
+        "code-point": "0xe04a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "videocam",
+        "code-point": "0xe04b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "videocam_off",
+        "code-point": "0xe04c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "videogame_asset",
+        "code-point": "0xe338",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "view_agenda",
+        "code-point": "0xe8e9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "view_array",
+        "code-point": "0xe8ea",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "view_carousel",
+        "code-point": "0xe8eb",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "view_column",
+        "code-point": "0xe8ec",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "view_comfy",
+        "code-point": "0xe42a",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "view_compact",
+        "code-point": "0xe42b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "view_day",
+        "code-point": "0xe8ed",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "view_headline",
+        "code-point": "0xe8ee",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "view_list",
+        "code-point": "0xe8ef",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "view_module",
+        "code-point": "0xe8f0",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "view_quilt",
+        "code-point": "0xe8f1",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "view_stream",
+        "code-point": "0xe8f2",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "view_week",
+        "code-point": "0xe8f3",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "vignette",
+        "code-point": "0xe435",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "visibility",
+        "code-point": "0xe8f4",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "visibility_off",
+        "code-point": "0xe8f5",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "voice_chat",
+        "code-point": "0xe62e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "voicemail",
+        "code-point": "0xe0d9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "volume_down",
+        "code-point": "0xe04d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "volume_mute",
+        "code-point": "0xe04e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "volume_off",
+        "code-point": "0xe04f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "volume_up",
+        "code-point": "0xe050",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "vpn_key",
+        "code-point": "0xe0da",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "vpn_lock",
+        "code-point": "0xe62f",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "wallpaper",
+        "code-point": "0xe1bc",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "warning",
+        "code-point": "0xe002",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "watch",
+        "code-point": "0xe334",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "watch_later",
+        "code-point": "0xe924",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "wb_auto",
+        "code-point": "0xe42c",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "wb_cloudy",
+        "code-point": "0xe42d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "wb_incandescent",
+        "code-point": "0xe42e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "wb_iridescent",
+        "code-point": "0xe436",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "wb_sunny",
+        "code-point": "0xe430",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "wc",
+        "code-point": "0xe63d",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "web",
+        "code-point": "0xe051",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "web_asset",
+        "code-point": "0xe069",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "weekend",
+        "code-point": "0xe16b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "whatshot",
+        "code-point": "0xe80e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "widgets",
+        "code-point": "0xe1bd",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "wifi",
+        "code-point": "0xe63e",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "wifi_lock",
+        "code-point": "0xe1e1",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "wifi_tethering",
+        "code-point": "0xe1e2",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "work",
+        "code-point": "0xe8f9",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "wrap_text",
+        "code-point": "0xe25b",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "youtube_searched_for",
+        "code-point": "0xe8fa",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "zoom_in",
+        "code-point": "0xe8ff",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "zoom_out",
+        "code-point": "0xe900",
+        "font-family": "MaterialIcons"
+    },
+    {
+        "icon": "zoom_out_map",
+        "code-point": "0xe56b",
+        "font-family": "MaterialIcons"
+    }
+]
